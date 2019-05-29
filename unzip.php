@@ -1,8 +1,8 @@
 <?php
     $zip = new ZipArchive;
-    if ($zip->open('htdocs.zip') === TRUE) { // File cần giải nén
-    $zip->extractTo('/home/u815960872/public_html/'); // Đường dẫn file
+    if ($zip->open('htdocs.zip') === TRUE) { // File to extract
+    $zip->extractTo('/home/u815960872/public_html/'); // File path
     $zip->close();
-    echo 'Giải nén hoàn tất';
+    echo 'Extract is complete';
 }
 ?>
