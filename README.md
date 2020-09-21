@@ -2,6 +2,8 @@
 > Version 2019 – Unzip file on the host using PHP
 
 # Document
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhoangsvit%2Fphp-unzip.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhoangsvit%2Fphp-unzip?ref=badge_shield)
+
 
 ## Installation with NPM
 ```
@@ -20,3 +22,7 @@ $ yarn add hoangsvit/php-unzip
 * [Instagram](https://instagram.com/hoang.it)
 * [Twitter](https://twitter.com/hoangsvit)
 * [Website](https://eplus.dev)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhoangsvit%2Fphp-unzip.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhoangsvit%2Fphp-unzip?ref=badge_large)
